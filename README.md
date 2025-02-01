@@ -21,6 +21,7 @@ Welcome to the **RHEL-Based Linux Systems Administration Guide**! This repositor
 13. [Performance Tuning](performance.md)
 14. [Troubleshooting and Debugging](troubleshooting.md)
 15. [RAID Configuration](raids.md)
+16. [iptables Configuration](iptables.md)
 
 ---
 
@@ -204,3 +205,16 @@ Guide available in [RAID Configuration](raids.md).
 
 ---
 
+## iptables Configuration
+
+Configure and manage firewall rules using `iptables` on RHEL-based systems:
+
+- Understanding iptables chains, tables, and rules
+- Creating and managing custom firewall rules
+- Configuring network address translation (NAT) and port forwarding
+- Saving and restoring iptables configurations
+- Troubleshooting common firewall issues
+
+Guide available in [iptables Configuration](iptables.md).
+
+---
