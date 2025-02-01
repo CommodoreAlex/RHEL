@@ -20,6 +20,7 @@ Welcome to the **RHEL-Based Linux Systems Administration Guide**! This repositor
 12. [Backup and Recovery](backup-recovery.md)
 13. [Performance Tuning](performance.md)
 14. [Troubleshooting and Debugging](troubleshooting.md)
+15. [RAID Configuration](raids.md)
 
 ---
 
@@ -186,6 +187,20 @@ Diagnose and fix common issues in RHEL-based systems:
 - Troubleshooting slow performance and high resource usage
 
 Guide available in [Troubleshooting and Debugging](troubleshooting.md).
+
+---
+
+## RAID Configuration
+
+Learn how to configure and manage RAID setups on RHEL-based systems:
+
+- Understanding RAID levels (RAID 0, 1, 5, 10, etc.)
+- Creating and managing RAID arrays with `mdadm`
+- Resizing, repairing, and managing RAID arrays
+- Monitoring RAID arrays' health and performance
+- Troubleshooting common RAID issues
+
+Guide available in [RAID Configuration](raids.md).
 
 ---
 
