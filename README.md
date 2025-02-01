@@ -7,18 +7,19 @@ Welcome to the **RHEL-Based Linux Systems Administration Guide**! This repositor
 ## 📋 Table of Contents
 
 1. [Introduction](#-introduction)
-2. [Installation and Setup](installation.md)
-3. [User and Group Management](user-management.md)
-4. [File System and Storage](filesystem-storage.md)
-5. [Networking Configuration](networking.md)
-6. [Package Management with DNF](package-management.md)
-7. [System Monitoring and Logs](monitoring-logs.md)
-8. [Security and SELinux](security-selinux.md)
-9. [Process and Service Management](process-services.md)
-10. [Firewall and Network Security](firewall-security.md)
-11. [Backup and Recovery](backup-recovery.md)
-12. [Performance Tuning](performance.md)
-13. [Troubleshooting and Debugging](troubleshooting.md)
+2. [Cheat Sheet](cheatsheet.md)
+3. [Installation and Setup](installation.md)
+4. [User and Group Management](user-management.md)
+5. [File System and Storage](filesystem-storage.md)
+6. [Networking Configuration](networking.md)
+7. [Package Management with DNF](package-management.md)
+8. [System Monitoring and Logs](monitoring-logs.md)
+9. [Security and SELinux](security-selinux.md)
+10. [Process and Service Management](process-services.md)
+11. [Firewall and Network Security](firewall-security.md)
+12. [Backup and Recovery](backup-recovery.md)
+13. [Performance Tuning](performance.md)
+14. [Troubleshooting and Debugging](troubleshooting.md)
 
 ---
 
@@ -27,6 +28,14 @@ Welcome to the **RHEL-Based Linux Systems Administration Guide**! This repositor
 **What is RHEL?**
 
 Red Hat Enterprise Linux (RHEL) is a widely used enterprise-grade Linux distribution known for its stability, security, and scalability. It is commonly used in data centers, cloud environments, and enterprise IT infrastructures. This guide focuses on RHEL-based distributions, including **CentOS Stream, Rocky Linux, and AlmaLinux**.
+
+---
+
+## Cheat Sheet  
+
+This **Cheat Sheet** provides a quick reference for essential Linux commands that system administrators frequently use in RHEL-based distributions, including **CentOS Stream, Rocky Linux, and AlmaLinux**. Whether you're managing files, users, processes, or networking, this section helps you quickly recall important commands without diving into full documentation.  
+
+For a detailed breakdown, see the [Cheat Sheet Guide](cheatsheet.md).  
 
 ---
 
