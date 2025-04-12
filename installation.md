@@ -27,7 +27,7 @@ Replace `/dev/sdX` with your USB device.
 **On Windows:**
 - Use **Rufus** or **Balena Etcher** to write the ISO to a USB drive.
 
-## 3️⃣ Installing RHEL
+## Installing RHEL
 
 ### Step 1: Boot from USB/DVD
 
