@@ -10,7 +10,7 @@ Welcome to the **RHEL-Based Linux Systems Administration Guide**! This repositor
 2. [Cheat Sheet](cheatsheet.md)
 3. [Installation and Setup](installation.md)
 4. [User and Group Management](user-management.md)
-5. [File System and Storage](filesystem-storage.md)
+5. [File System and Storage](filesystem-management.md)
 6. [Networking Configuration](networking.md)
 7. [Package Management with DNF](package-management.md)
 8. [System Monitoring and Logs](monitoring-logs.md)
