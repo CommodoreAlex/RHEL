@@ -6,7 +6,7 @@ Welcome to the **RHEL-Based Linux Systems Administration Guide**! This repositor
 
 ## Table of Contents
 
-1. [Introduction](#-introduction)
+1. [Introduction](introduction.md)
 2. [Cheat Sheet](cheatsheet.md)
 3. [Installation and Setup](installation.md)
 4. [User and Group Management](user-management.md)
