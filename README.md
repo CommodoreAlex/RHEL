@@ -6,22 +6,21 @@ Welcome to the **RHEL-Based Linux Systems Administration Guide**! This repositor
 
 ## Table of Contents
 
-1. [Introduction](introduction.md)
-2. [Cheat Sheet](cheatsheet.md)
-3. [Installation and Setup](installation.md)
-4. [User and Group Management](user-management.md)
-5. [File System and Storage](filesystem-management.md)
-6. [Networking Configuration](networking.md)
-7. [Package Management with DNF](package-management.md)
-8. [System Monitoring and Logs](monitoring-logs.md)
-9. [Security and SELinux](security-selinux.md)
-10. [Process and Service Management](process-services.md)
-11. [Firewall and Network Security](firewall-security.md)
-12. [Backup and Recovery](backup-recovery.md)
-13. [Performance Tuning](performance.md)
-14. [Troubleshooting and Debugging](troubleshooting.md)
-15. [RAID Configuration](raids.md)
-16. [iptables Configuration](iptables.md)
+1. [Cheat Sheet](cheatsheet.md)
+2. [Installation and Setup](installation.md)
+3. [User and Group Management](user-management.md)
+4. [File System and Storage](filesystem-management.md)
+5. [Networking Configuration](networking.md)
+6. [Package Management with DNF](package-management.md)
+7. [System Monitoring and Logs](monitoring-logs.md)
+8. [Security and SELinux](security-selinux.md)
+9. [Process and Service Management](process-services.md)
+10. [Firewall and Network Security](firewall-security.md)
+11. [Backup and Recovery](backup-recovery.md)
+12. [Performance Tuning](performance.md)
+13. [Troubleshooting and Debugging](troubleshooting.md)
+14. [RAID Configuration](raids.md)
+15. [iptables Configuration](iptables.md)
 
 ---
 
