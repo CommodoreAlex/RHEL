@@ -1,8 +1,8 @@
-# 🖥️ Basic Linux Command Guide for System Administrators  
+# 🖥Basic Linux Command Guide for System Administrators  
 
 This guide provides essential Linux commands for beginner system administrators working with Red Hat-based distributions.
 
-## 📌 Table of Contents  
+## Table of Contents  
 - [System Information](#system-information)
 - [File and Directory Management](#file-and-directory-management)  
 - [File Creation and Editing](#file-creation-and-editing)
@@ -15,7 +15,7 @@ This guide provides essential Linux commands for beginner system administrators 
 - [System Monitoring](#system-monitoring)  
 - [Disk and Storage Management](#disk-and-storage-management)  
 
-## 🖥️ System Information
+## System Information
 
 ```bash
 uname -r # Display Linux kernel version 
@@ -28,7 +28,7 @@ df -h # Show disk usage in human-readable format
 free -m # Display memory usage in MB
 ```
 
-## 📂 File and Directory Management  
+## File and Directory Management  
 
 ```bash
 pwd             # Show current directory path  
@@ -44,7 +44,7 @@ mv old new      # Rename or move a file
 find /path -name "*.log"  # Find files by name  
 ```
 
-## 📝 File Creation and Editing
+## File Creation and Editing
 
 ```bash
 touch file          # Create an empty file  
@@ -58,7 +58,7 @@ head -n 10 file    # Show first 10 lines of a file
 tail -n 10 file    # Show last 10 lines of a file  
 ```
 
-## 👥 User and Group Management
+## User and Group Management
 
 ```bash
 whoami       # Show current user  
@@ -70,7 +70,7 @@ groups user  # Show groups of a user
 deluser user # Delete a user  
 ```
 
-## 🔒 Permissions and Ownership
+## Permissions and Ownership
 
 ```bash
 ls -l        # View file permissions  
@@ -80,7 +80,7 @@ chmod +x script.sh  # Make a script executable
 umask 022     # Default permission settings  
 ```  
 
-## ⚙️ Process Management
+## Process Management
 
 ```bash
 ps aux       # List all running processes  
@@ -92,7 +92,7 @@ bg           # Resume a process in the background
 fg           # Bring a background process to the foreground  
 ```
 
-## 🔧 Service and Systemctl Management
+## Service and Systemctl Management
 
 ```bash
 systemctl status service  # Check service status  
@@ -104,7 +104,7 @@ systemctl disable service # Disable a service at boot
 journalctl -xe           # View system logs  
 ```
 
-## 🌐 Networking Commands
+## Networking Commands
 
 ```bash
 ip a          # Show IP addresses  
@@ -116,7 +116,7 @@ netstat -tulnp  # Show open ports (install via `dnf install net-tools`)
 ss -tulnp     # Show open sockets and ports  
 ```
 
-## 📦 Package Management (DNF)
+## Package Management (DNF)
 
 ```bash
 dnf install package  # Install a package  
@@ -127,7 +127,7 @@ dnf search package  # Search for a package
 rpm -qa | grep package  # Find installed RPM package  
 ```
 
-## 📊 System Monitoring
+## System Monitoring
 
 ```bash
 uptime        # Show system uptime  
@@ -138,7 +138,7 @@ vmstat 1      # Display CPU and memory stats
 iostat        # Show CPU and I/O usage (install via `dnf install sysstat`)  
 ```
 
-## 💾 Disk and Storage Management
+## Disk and Storage Management
 
 ```bash
 lsblk         # List block devices  
